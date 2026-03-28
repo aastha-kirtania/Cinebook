@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Cinebook
 
 This project now has two moving parts:
@@ -126,3 +127,6 @@ Notes:
 - The server auto-creates the database tables on startup.
 - CORS is already enabled in the backend.
 - The current backend is suitable for Railway-style Node hosting, not Vercel serverless hosting.
+=======
+# Cinebook
+>>>>>>> b13e8567bd64a5df0f382ef41ec2c2b9a08e3380
